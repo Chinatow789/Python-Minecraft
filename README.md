@@ -1,4 +1,4 @@
-# 用Python做的简单Minecraft我的世界
+# 用Python做的Minecraft我的世界
 
 ```shell
 pip install pyglet
