@@ -3,8 +3,6 @@
 ```shell
 pip install pyglet
 git clone https://github.com/Chinatow789/Python-Minecraft.git
-cd Minecraft
-python main.py
 ```
 
 ## 怎么玩
